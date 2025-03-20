@@ -1,0 +1,176 @@
+[
+    {
+        "id": 1,
+        "adventure_title": "Amazon Rainforest Expedition",
+        "image": "amazon_expedition.jpg",
+        "category_name": "Jungle Trekking",
+        "short_description": "Explore the dense Amazon rainforest with expert guides, spotting exotic wildlife and indigenous cultures.",
+        "adventure_cost": "$1500",
+        "booking_availability": "Available Year-Round",
+        "location": "Amazon Rainforest, Brazil",
+        "duration": "7 Days",
+        "adventure_level": "Challenging",
+        "included_items": [
+            "Guided tours",
+            "Eco-lodging",
+            "Meals",
+            "Transportation"
+        ],
+        "eco_friendly_features": [
+            "Sustainable lodging",
+            "Leave No Trace principles",
+            "Wildlife conservation support"
+        ],
+        "max_group_size": 10,
+        "special_instructions": [
+            "Pack light",
+            "Use biodegradable products",
+            "Follow local guidelines"
+        ]
+    },
+    {
+        "id": 2,
+        "adventure_title": "Great Barrier Reef Snorkeling",
+        "image": "great_barrier_reef.jpg",
+        "category_name": "Marine Exploration",
+        "short_description": "Snorkel in the world's largest coral reef system while learning about marine conservation.",
+        "adventure_cost": "$1200",
+        "booking_availability": "March to November",
+        "location": "Queensland, Australia",
+        "duration": "5 Days",
+        "adventure_level": "Moderate",
+        "included_items": [
+            "Snorkeling gear",
+            "Boat transfers",
+            "Marine biologist guide",
+            "Eco-resort stay"
+        ],
+        "eco_friendly_features": [
+            "Coral reef protection",
+            "Eco-certified accommodations",
+            "Biodegradable sunscreen provided"
+        ],
+        "max_group_size": 12,
+        "special_instructions": [
+            "Do not touch marine life",
+            "Use reef-safe sunscreen",
+            "Respect protected zones"
+        ]
+    },
+    {
+        "id": 3,
+        "adventure_title": "Patagonia Glacier Hike",
+        "image": "patagonia_glacier.jpg",
+        "category_name": "Ice Trekking",
+        "short_description": "Trek through breathtaking glacial landscapes in Patagonia with experienced guides.",
+        "adventure_cost": "$1800",
+        "booking_availability": "December to March",
+        "location": "Patagonia, Argentina",
+        "duration": "6 Days",
+        "adventure_level": "Difficult",
+        "included_items": [
+            "Ice climbing gear",
+            "Lodging",
+            "All meals",
+            "Certified guide"
+        ],
+        "eco_friendly_features": [
+            "Carbon offset travel",
+            "Minimal impact camping",
+            "Sustainable meals"
+        ],
+        "max_group_size": 8,
+        "special_instructions": [
+            "Wear thermal layers",
+            "Stay on marked trails",
+            "Follow waste disposal guidelines"
+        ]
+    },
+    {
+        "id": 4,
+        "adventure_title": "African Safari & Conservation Experience",
+        "image": "african_safari.jpg",
+        "category_name": "Wildlife Safari",
+        "short_description": "Witness Africa's incredible wildlife and contribute to conservation projects.",
+        "adventure_cost": "$2500",
+        "booking_availability": "May to September",
+        "location": "Serengeti, Tanzania",
+        "duration": "8 Days",
+        "adventure_level": "Moderate",
+        "included_items": [
+            "Luxury tented camps",
+            "Game drives",
+            "Conservation workshops",
+            "Meals"
+        ],
+        "eco_friendly_features": [
+            "Solar-powered lodges",
+            "Anti-poaching funding",
+            "Waste-free campsites"
+        ],
+        "max_group_size": 14,
+        "special_instructions": [
+            "Respect wildlife distance",
+            "No plastic waste",
+            "Support local communities"
+        ]
+    },
+    {
+        "id": 5,
+        "adventure_title": "Norwegian Fjord Kayaking",
+        "image": "norwegian_fjord.jpg",
+        "category_name": "Kayaking & Canoeing",
+        "short_description": "Paddle through majestic fjords and witness stunning Nordic landscapes.",
+        "adventure_cost": "$1300",
+        "booking_availability": "June to August",
+        "location": "Norway",
+        "duration": "5 Days",
+        "adventure_level": "Moderate",
+        "included_items": [
+            "Kayak rental",
+            "Camping gear",
+            "Local guide",
+            "Meals"
+        ],
+        "eco_friendly_features": [
+            "Non-motorized transport",
+            "Zero waste meals",
+            "Eco-certified camping"
+        ],
+        "max_group_size": 6,
+        "special_instructions": [
+            "Wear waterproof gear",
+            "Respect marine life",
+            "Pack reusable bottles"
+        ]
+    },
+    {
+        "id": 6,
+        "adventure_title": "Costa Rica Volcano Trekking",
+        "image": "costa_rica_volcano.jpg",
+        "category_name": "Mountain Hiking",
+        "short_description": "Hike through volcanic landscapes and lush rainforests in Costa Rica.",
+        "adventure_cost": "$1100",
+        "booking_availability": "Year-Round",
+        "location": "Costa Rica",
+        "duration": "4 Days",
+        "adventure_level": "Moderate",
+        "included_items": [
+            "Trekking poles",
+            "Lodging",
+            "Meals",
+            "Guided tours"
+        ],
+        "eco_friendly_features": [
+            "Local eco-lodges",
+            "Minimal impact travel",
+            "Wildlife conservation education"
+        ],
+        "max_group_size": 10,
+        "special_instructions": [
+            "Bring sturdy boots",
+            "Follow trail rules",
+            "Stay hydrated"
+        ]
+    }
+]
