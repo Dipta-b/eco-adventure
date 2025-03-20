@@ -11,7 +11,7 @@ const Navbar = () => {
         <div className="navbar bg-base-100 flex items-center justify-between px-4">
             <div className="flex items-center gap-4">
 
-                <a className="btn btn-ghost text-xl">ECO ADVENTURE</a>
+                <a className="btn btn-ghost text-xl">ECO ADVENTURE FOR NEW</a>
 
             </div>
             <div className='flex justify-center items-center gap-2 '>
